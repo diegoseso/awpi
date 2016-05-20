@@ -1,0 +1,8 @@
+# This is the first example of an awpi file
+
+:user:	Ihgisso1
+:domain:gsilkasp20.dacfi.es
+:action:checkYiiVersion 
+    :arg:/apps/hgisso/web/index.php
+    :arg:https://gsilkasp20.dacfi.es/hgisso/checkYiiVersion.php
+
